@@ -1,6 +1,6 @@
-# 🎉 Event Dashboard
+# 🎉 final-frontend
 
-A modern and responsive **Event Dashboard** built using **Vite** and **React**. This project is designed for managing and viewing events in an intuitive interface, offering fast load times and a smooth user experience.
+A modern and responsive **final-frontend** built using **Vite** and **React**. This project is designed for managing and viewing events in an intuitive interface, offering fast load times and a smooth user experience.
 
 ## 🚀 Features
 
@@ -33,7 +33,7 @@ git clone https://github.com/kirangautam45/event-dashboard.git
 Navigate into the project folder:
 
 ```bash
-cd event-dashboard
+cd final-backend
 ```
 
 ---
